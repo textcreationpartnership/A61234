@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of William Howard, late Lord Viscount Stafford, upon the scaffold on Tower-Hill immediately before his execution, Wednesday Decemb. 29, 1680.</title>
+            <author>Stafford, William Howard, Viscount, 1614-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61234</idno>
+            <idno type="STC">Wing S5157</idno>
+            <idno type="STC">ESTC R25784</idno>
+            <idno type="EEBO-CITATION">09125057</idno>
+            <idno type="OCLC">ocm 09125057</idno>
+            <idno type="VID">42482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1295:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of William Howard, late Lord Viscount Stafford, upon the scaffold on Tower-Hill immediately before his execution, Wednesday Decemb. 29, 1680.</title>
+                  <author>Stafford, William Howard, Viscount, 1614-1680.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:42482:1"/>
+            <head>THE SPEECH OF William Howard, Late Lord Viſcount Stafford; <hi>
+                  <g ref="char:V">Ʋ</g>pon the Scaffold on Tower-Hill, immediately be<g ref="char:EOLhyphen"/>fore his Execution,</hi> Wedneſday, Decemb'. 29. 1680.</head>
+            <p>BY the Permiſſion of Almighty God, I am this day brought hither to ſuffer Death, as if I were guilty of High Treaſon: I do moſt truly, in the Preſence of the Eternal, Omnipo<g ref="char:EOLhyphen"/>tent, and All-knowing GOD, proteſt upon my Salvation, That I am as Innocent as it is poſſible for any man to be, ſo much as in a Thought, of the Crimes laid to my Charge.</p>
+            <p>I acknowledg it to be a particular Grace and Favour of the Ho<g ref="char:EOLhyphen"/>ly Trinity, to have given me this long Time to prepare my ſelf for Eternity: I have not made ſo good uſe of that Grace as I ought to have done, partly by my not having recollected my ſelf as I might have done, and partly becauſe, not only my Friends, but my Wife and Children, have for ſeveral daies been forbid to ſee me, but in the preſence of one of my Warders. This hath been a great Trouble and Diſtraction unto me: but I hope God of his Infinite Mercy will pardon my Def<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, and accept of my good Intentions</p>
+            <p>Since my long Impriſonment, I have conſidered often what could be the Original Cauſe of my being thus accuſed, ſince I knew my ſelf not culpable, ſo much as in a Thought; and I cannot believe it to be upon any other Account, than my being of the Church of <hi>Rome.</hi> I have no Reaſon to be aſhamed of my Religion; for it teacheth nothing but the Right Worſhip of God, Obedience to the King, and due Subordination to the Temporal Laws of the King<g ref="char:EOLhyphen"/>dom; And I do ſubmit to the Articles of Faith believed and taught in the Catholick Church, believing them to be moſt conſonant to the Word of God. And whereas it hath ſo much and often been objected, that the Church holds, That Sovereign Princes Excom<g ref="char:EOLhyphen"/>municated
+<pb n="2" facs="tcp:42482:2" rendition="simple:additions"/>by the Pope, may by their Subjects be Depoſed and Mur<g ref="char:EOLhyphen"/>dered; as to the Murder of princes, I have been Taught as a mat<g ref="char:EOLhyphen"/>ter of Faith in the Catholick Faith, that ſuch Doctrine is diaboli<g ref="char:EOLhyphen"/>cal, horrid and deteſtable, and contrary to the Law of God, Na<g ref="char:EOLhyphen"/>ture and Nations; and as ſuch, from my heart I renounce and abo<g ref="char:EOLhyphen"/>minate it. As for the Doctrine of Depoſing Princes, I know ſome Divines of the Catholick Church hold it, but as able and learned as they have writ againſt it: but it was not pretended to be the Do<g ref="char:EOLhyphen"/>ctrine of the Church, that is, any point of Catholick Faith: where<g ref="char:EOLhyphen"/>fore I do here in my Conſcience declare, That tis my true and real Judgment, That the ſame Doctrine of Depoſing Kings is contra<g ref="char:EOLhyphen"/>ry to the Fundamental Laws of this Kingdom, injurious to So<g ref="char:EOLhyphen"/>vereign Power, and conſequently would be in me, or any other of his Majeſties Subjects, impious and damnable. I believe and pro<g ref="char:EOLhyphen"/>feſs, that there is one God, one Saviour one Holy Catholick Church, of which, through the Mercy, Grace and Goodneſs of God, I die a Member.</p>
+            <p>To my great and unſpeakable Grief, I have offended God in ma<g ref="char:EOLhyphen"/>ny things, by many great Offences; But I give him moſt humble thanks, not in any of thoſe Crimes of which I was accuſed.</p>
+            <p>All the Members of either Houſe having liberty to propoſe in the Houſe what they think fit for the good of the Kingdom, ac<g ref="char:EOLhyphen"/>cordingly I propoſed what I thought fit: the Houſe is judge of the fitneſs or unfitneſs of it, and I think I never ſaid any thing that was unfitting there, or contrary to the Law and uſe of Parliament; for certainly if I had the Lords would, as they might, have ſome way puniſhed me: So I am not culpable before God or Man.</p>
+            <p>It is much reported of Indulgences, Diſpenſations, Pardons, to Murder, Rebel Lye, Forſwear, and commit ſuch other Crimes held and given in the Church. I do here profeſs in the preſence of God, I never learned, believed, or practiſed any ſuch things, but the con<g ref="char:EOLhyphen"/>trary; and I ſpeak this without any Equivocation or Reſervation whatſoever, And certainly were I guilty either my ſelf, or knew of any one that were guilty, whoſoever that were <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, of any of thoſe Crimes of which I am accuſed, I were not onely the greateſt Fool imaginable, but a perfect Madman, and as wicked as any of thoſe that ſo falſly have accuſed me, if I ſhould not diſcover any ill deſign I knew in any kind, and ſo upon diſcovery ſave my Life, I having ſo often had ſo fair occaſions propoſed unto me, and ſo am guilty of Self-murder, which is a moſt grievous and hainous ſin. And though I was laſt impeached at the Lords Bar, yet I have great grounds to believe that I was firſt brought to Tryal on the belief that to ſave my Life I would make ſome great Diſcovery; and truly ſo I would, had I known any ſuch thing of an ill deſign, or illegal dangerous Plot, either of my ſelf, or any other perſon whoſoever, without ex<g ref="char:EOLhyphen"/>ception. But had I a thouſand Lives, I would loſe them all, rather than falſly accuſe either my ſelf, or any other whoſoever: And if I
+<pb n="3" facs="tcp:42482:2"/>had known of any Treaſon, and ſhould thus deny it, as I do now upon my Salvation at this time, I ſhould have no hope of Salvation, which now I have through the Merits of Chriſt Jeſus.</p>
+            <p>I do beſeech God to bleſs his Majeſty, who is my lawful King and Soveraign, who I was always by all Laws Humane and Divine, bound to obey: and I am ſure that no Power upon Earth, either ſingly or all together can legally allow me or any body elſe to lift a hand againſt him or his Legal Authority. I do hold that the Con<g ref="char:EOLhyphen"/>ſtitution of the Government of this Kingdom is the only way to continue Peace and quietneſs; which God long continue.</p>
+            <p>Next to Treaſon, I hold Murder in abhorrence, and have ever done, and do: and I do ſincerely profeſs, that if I could at this time free my ſelf immediately, and eſtabliſh what Religion I would, and what Government I would, and make my ſelf as Great as I could wiſh, and all by the death of one of thoſe Fellows that by their Per<g ref="char:EOLhyphen"/>juries have brought me to the place where I am, I ſo much abhor to be the cauſe of any mans Death, that I would not any way be the cauſe of their Murder: How much loſs would I endeavour the Aſſaſſination of his Majeſty, whom I hold to be as Gracious a King as ever this or any other Nation had, and under whom the People may enjoy their Liberties as much as ever any did: and if it pleaſe God to grant him Life and Happineſs, according as I have always wiſhed and prayed for, I am morally perſwaded that he and all his Dominions will be as happy and proſperous as ever People were; which I beſeech God grant.</p>
+            <p>I do moſt humbly ask pardon of the Almighty and All-merciful God, for all the great offences I have committed againſt his Divine Majeſty; and I know he would not have the death and confuſion of a ſinner, but that he may repent and live: in that aſſurance I hope, knowing he never deſpiſeth a contrite Heart; and though I have not ſo feeling a Contrition as I would, yet I have it as well as I can, and I doubt not but that God will accept of the good will.</p>
+            <p>I do deſire that all people will forgive me any injury that I have done them in any thing either wilfully or by chance; and I do heartily forgive all people in the world that have injured me; I for<g ref="char:EOLhyphen"/>give even thoſe Perjured men that ſo falſly have brought me hither by their Perjurie.</p>
+            <p>I do now upon my Death and Salvation aver, that I never ſpoke one word either unto <hi>Oates</hi> or <hi>Turbervil,</hi> or to my knowledge ever ſaw them until my Trial; and for <hi>Dugdale,</hi> I never ſpoke unto him of any thing but about a Foot-boy, or Foot-man, or Foot-race; and never was then alone with him. All the puniſhment that I wiſh them, is, that they may repent and acknowledge the wrong they have done me; then it will appear how Innocent I am. God for<g ref="char:EOLhyphen"/>give them! I have a great confidence that it will pleaſe Almighty God, and that he will in a ſhort time bring Truth to light; then you and all the world will ſee and know what injury they have done me.</p>
+            <pb n="4" facs="tcp:42482:3"/>
+            <p>I hope I have made it appear that I have ſome Conſcience: for if I had none, certainly I would have ſaved my Life by acknowledging my ſelf guilty. which I could have done, tho I know I am not in the leaſt Guilty. And I having ſome Conſcience, make very ill uſe of it; for I throw my ſelf into eternal Pain by thus plainly and con<g ref="char:EOLhyphen"/>ſtantly denying thus at my Death, the Knowledge of what I am ac<g ref="char:EOLhyphen"/>cuſed of in the leaſt.</p>
+            <p>I have ſaid thus much in diſcharge of my Conſcience, and do aver upon my Salvation, what I have ſaid to be really true.</p>
+            <p>I ſhall ſay little of my Trial; and whether it were all according to the known Law, I am too much a Party to ſay much of it: if it were not ſo, God forgive him or them that were the cauſe of it.</p>
+            <p>My Judges were all Perſons of Honour, who were all as much bound to judge rightly, as if they had been upon Oath upon what was legally proved; and not to Vote but according as in their Con<g ref="char:EOLhyphen"/>ſciences they were ſatisfied; and if any of them did otherwiſe upon any account whatſoever, I beſeech God forgive them, I do ſo heartily.</p>
+            <p>I ſhall end with my <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty Prayers for the happineſs of his Majeſty, that he may enjoy all happineſs in this world and the world to come, and govern his People according to the Laws of God, and that the People may be ſenſible what a Bleſſing God hath ſo miraculouſly gi<g ref="char:EOLhyphen"/>ven them, and obey him as they ought. I ask Pardon with a proſtrate heart of Almighty God, for all the great Offences that I have com<g ref="char:EOLhyphen"/>mitted againſt his Divine Majeſty, and hope through the Merits and Paſſion of Chriſt Jeſus, to obtain everlaſting Happineſs; into whoſe hands I commit my Spirit, asking Pardon of every perſon that I have done any wrong unto: I do freely forgive all that have any ways wronged me; I do with all the Devotion and Repentance that I can, humbly invoke the Mercy of our Bleſſed Saviour.</p>
+            <p>I beſeech God not to revenge my Innocent Blood on the Nation, or on thoſe that were the Cauſers of it, with my laſt Breath. I do with my laſt Breath truly aſſert my Innocency, and hope the Omni<g ref="char:EOLhyphen"/>potent Allſeeing Juſt God will deal with me accordingly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
